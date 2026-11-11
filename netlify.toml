@@ -1,0 +1,10 @@
+# Netlify build settings for this TanStack Start app.
+# Builds a static site in dist/ (see scripts/netlify-drop.mjs): pages render in the browser,
+# and images + game requests are forwarded to the published Lovable app.
+[build]
+  command = "npm run build:netlify-drop"
+  publish = "dist"
+
+[build.environment]
+  NITRO_PRESET = "netlify"
+  NODE_VERSION = "22"
