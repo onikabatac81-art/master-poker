@@ -7,6 +7,11 @@
 import { rmSync, writeFileSync } from 'node:fs';
 import { LOVABLE_APP_ORIGIN } from './netlify-assets.mjs';
 
+const missingEnv = ['VITE_SUPABASE_URL', 'VITE_SUPABASE_PUBLISHABLE_KEY'].filter((name) => !process.env[name]);
+if (missingEnv.length > 0) {
+  throw new Error(`Netlify build is missing ${missingEnv.join(', ')}; the site would open to an error page. Add them in Netlify's environment variables.`);
+}
+
 process.env.TSS_PRERENDERING = 'true';
 const { default: handler } = await import('../.netlify/functions-internal/server/main.mjs');
 const res = await handler(new Request('http://localhost/', { headers: { 'X-TSS_SHELL': 'true' } }), {});
