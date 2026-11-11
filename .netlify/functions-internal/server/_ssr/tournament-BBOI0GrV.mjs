@@ -5,11 +5,11 @@ import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { $ as Bot, A as MessageCircle, K as Crown, N as LogOut, S as Send, d as TrendingUp, i as Volume2, l as Trophy, o as Users, p as Timer, r as VolumeX, s as UserRound } from "../_libs/lucide-react.mjs";
 import { x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
-import { n as useAuth } from "./useAuth-BRiQAX8u.mjs";
+import { n as useAuth } from "./useAuth-D_f7uHyK.mjs";
 import { a as playSound } from "./sounds-vUSvDDZ3.mjs";
 import { n as useSoundSetting } from "./useTableSounds-B9nrkivm.mjs";
 import { i as dealerFor, n as HandResultPanel, r as PokerTable, t as ActionBar } from "./dealers-D-_sVv5g.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/tournament-DHZcViWs.js
+//#region node_modules/.nitro/vite/services/ssr/assets/tournament-BBOI0GrV.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var TRASH_TALK = {

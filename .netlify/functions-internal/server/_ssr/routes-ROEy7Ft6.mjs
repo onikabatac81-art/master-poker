@@ -1,10 +1,10 @@
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { D as QrCode, G as Download, U as Gift, _ as ShieldCheck, l as Trophy, m as Spade, nt as ArrowRight, o as Users } from "../_libs/lucide-react.mjs";
 import { b as Link } from "../_libs/@tanstack/react-router+[...].mjs";
-import { n as useAuth } from "./useAuth-BRiQAX8u.mjs";
+import { n as useAuth } from "./useAuth-D_f7uHyK.mjs";
 import { t as FloatingSuits } from "./FloatingSuits-CJ6WQyVh.mjs";
 import { t as master_poker_hero_jpg_asset_default } from "./master-poker-hero.jpg.asset-CByH3_u4.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-CzS4Xc7P.js
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-ROEy7Ft6.js
 var import_jsx_runtime = require_jsx_runtime();
 var CARDS = [
 	{

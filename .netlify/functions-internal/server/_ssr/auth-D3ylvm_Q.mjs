@@ -1,6 +1,6 @@
 import { _ as lazyRouteComponent, v as createFileRoute } from "../_libs/@tanstack/react-router+[...].mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/auth-CQ6Qy_uv.js
-var $$splitComponentImporter = () => import("./auth-B2-ICEa1.mjs");
+//#region node_modules/.nitro/vite/services/ssr/assets/auth-D3ylvm_Q.js
+var $$splitComponentImporter = () => import("./auth-LqPA9MOg.mjs");
 function safeRedirect(value) {
 	if (typeof value !== "string") return void 0;
 	if (!value.startsWith("/") || value.startsWith("//")) return void 0;

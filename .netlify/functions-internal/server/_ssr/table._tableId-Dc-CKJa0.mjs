@@ -1,15 +1,15 @@
 import { r as __toESM } from "../_runtime.mjs";
 import { c as effectiveRake, f as isValidAction, l as emptyTable, p as legalActions } from "./session-D4g7BORC.mjs";
-import { t as supabase } from "./client-SAOWSTXM.mjs";
+import { t as supabase } from "./client-DQTJBoLu.mjs";
 import { i as formatPeso, n as formatChips, t as errorMessage } from "./format-GXPsoUco.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
-import { n as useTableSettings } from "./useTableSettings-Di_hzpEc.mjs";
+import { n as useTableSettings } from "./useTableSettings-Bq7lZs-1.mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { H as History, J as Coins, N as LogOut, a as Volume1, at as Armchair, i as Volume2, it as ArrowDownToLine, j as Maximize2, k as Minimize2, n as Wallet, o as Users, r as VolumeX, rt as ArrowLeft, tt as ArrowUpFromLine } from "../_libs/lucide-react.mjs";
 import { S as useRouter, Vt as isRedirect, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
-import { n as useAuth } from "./useAuth-BRiQAX8u.mjs";
-import { n as useWallet, t as RequestModal } from "./useWallet-QjkQKyog.mjs";
-import { t as Route } from "./table._tableId-DfZGSERQ.mjs";
+import { n as useAuth } from "./useAuth-D_f7uHyK.mjs";
+import { n as useWallet, t as RequestModal } from "./useWallet-CvhXBrOJ.mjs";
+import { t as Route } from "./table._tableId-CGicAofF.mjs";
 import { a as TSS_SERVER_FUNCTION, l as createServerFn } from "./createServerFn-BhqelEmK.mjs";
 import { t as getServerFnById } from "../__23tanstack-start-server-fn-resolver-CXr6X1Wx.mjs";
 import { r as useTableSounds, t as useSoundPrefs } from "./useTableSounds-B9nrkivm.mjs";
@@ -17,7 +17,7 @@ import { i as PopoverTrigger$1, n as PopoverContent$1, r as PopoverPortal, t as 
 import { n as cn, t as SoundControls } from "./SoundControls-tmojWTfB.mjs";
 import { t as requireSupabaseAuth } from "./auth-middleware-CMevzYJH.mjs";
 import { i as dealerFor, n as HandResultPanel, r as PokerTable, t as ActionBar } from "./dealers-D-_sVv5g.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/table._tableId-BHnbAcis.js
+//#region node_modules/.nitro/vite/services/ssr/assets/table._tableId-Dc-CKJa0.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function useServerFn(serverFn) {

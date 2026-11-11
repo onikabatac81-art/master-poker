@@ -1,14 +1,14 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { t as supabase } from "./client-SAOWSTXM.mjs";
+import { t as supabase } from "./client-DQTJBoLu.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { S as useRouter, Ut as redirect, _ as lazyRouteComponent, b as Link, d as Scripts, f as HeadContent, g as Outlet, h as createRouter, v as createFileRoute, y as createRootRouteWithContext } from "../_libs/@tanstack/react-router+[...].mjs";
-import { t as AuthProvider } from "./useAuth-BRiQAX8u.mjs";
-import { t as Route$8 } from "./auth-CQ6Qy_uv.mjs";
+import { t as AuthProvider } from "./useAuth-D_f7uHyK.mjs";
+import { t as Route$8 } from "./auth-D3ylvm_Q.mjs";
 import { t as QueryClientProvider } from "../_libs/tanstack__react-query.mjs";
 import { t as QueryClient } from "../_libs/tanstack__query-core.mjs";
-import { t as Route$9 } from "./table._tableId-DfZGSERQ.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/router-CYRE1Ty3.js
+import { t as Route$9 } from "./table._tableId-CGicAofF.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/router-BMuBFEaX.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var styles_default = "/assets/styles-DQjKnfbo.css";
@@ -184,7 +184,7 @@ function RootComponent() {
 		children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(AuthProvider, { children: /* @__PURE__ */ (0, import_jsx_runtime.jsx)(Outlet, {}) })
 	});
 }
-var $$splitComponentImporter$6 = () => import("./routes-CzS4Xc7P.mjs");
+var $$splitComponentImporter$6 = () => import("./routes-ROEy7Ft6.mjs");
 var Route$6 = createFileRoute("/")({
 	head: () => ({ meta: [
 		{ title: "Master Poker · Strategy, Skill, Victory" },
@@ -211,7 +211,7 @@ var Route$6 = createFileRoute("/")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$6, "component")
 });
-var $$splitComponentImporter$5 = () => import("./route-DLY5oVAY.mjs");
+var $$splitComponentImporter$5 = () => import("./route-B6LuiuRg.mjs");
 var Route$5 = createFileRoute("/_authenticated")({
 	ssr: false,
 	beforeLoad: async ({ location }) => {
@@ -224,7 +224,7 @@ var Route$5 = createFileRoute("/_authenticated")({
 	},
 	component: lazyRouteComponent($$splitComponentImporter$5, "component")
 });
-var $$splitComponentImporter$4 = () => import("./reset-password-Daqv4RLY.mjs");
+var $$splitComponentImporter$4 = () => import("./reset-password-KaDrYrB4.mjs");
 var Route$4 = createFileRoute("/reset-password")({
 	head: () => ({ meta: [
 		{ title: "Set a new password · Master Poker" },
@@ -243,7 +243,7 @@ var Route$4 = createFileRoute("/reset-password")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$4, "component")
 });
-var $$splitComponentImporter$3 = () => import("./admin-CpX2bk0v.mjs");
+var $$splitComponentImporter$3 = () => import("./admin-C82oTNta.mjs");
 var Route$3 = createFileRoute("/_authenticated/admin")({
 	head: () => ({ meta: [
 		{ title: "Admin Control Panel · Master Poker" },
@@ -262,7 +262,7 @@ var Route$3 = createFileRoute("/_authenticated/admin")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$3, "component")
 });
-var $$splitComponentImporter$2 = () => import("./lobby-DWOIrRLa.mjs");
+var $$splitComponentImporter$2 = () => import("./lobby-Cyhz9jKA.mjs");
 var Route$2 = createFileRoute("/_authenticated/lobby")({
 	head: () => ({ meta: [
 		{ title: "Choose a Table · Master Poker" },
@@ -281,7 +281,7 @@ var Route$2 = createFileRoute("/_authenticated/lobby")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$2, "component")
 });
-var $$splitComponentImporter$1 = () => import("./settings-D0pw0v31.mjs");
+var $$splitComponentImporter$1 = () => import("./settings-b-l1y16L.mjs");
 var Route$1 = createFileRoute("/_authenticated/settings")({
 	head: () => ({ meta: [
 		{ title: "Profile Settings · Master Poker" },
@@ -300,7 +300,7 @@ var Route$1 = createFileRoute("/_authenticated/settings")({
 	] }),
 	component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-var $$splitComponentImporter = () => import("./tournament-DHZcViWs.mjs");
+var $$splitComponentImporter = () => import("./tournament-BBOI0GrV.mjs");
 var Route = createFileRoute("/_authenticated/tournament")({
 	head: () => ({ meta: [
 		{ title: "Sit & Go Tournament · Master Poker" },

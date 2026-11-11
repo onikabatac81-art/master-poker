@@ -1,9 +1,9 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { t as supabase } from "./client-SAOWSTXM.mjs";
-import { C as fetchTableSettings, n as DEFAULT_TABLE_SETTINGS } from "./api-DH6oy-PM.mjs";
+import { t as supabase } from "./client-DQTJBoLu.mjs";
+import { C as fetchTableSettings, n as DEFAULT_TABLE_SETTINGS } from "./api-Cf0drsAo.mjs";
 import { t as errorMessage } from "./format-GXPsoUco.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/useTableSettings-Di_hzpEc.js
+//#region node_modules/.nitro/vite/services/ssr/assets/useTableSettings-Bq7lZs-1.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 function useLiveData(load, tables, initial) {
 	const [data, setData] = (0, import_react.useState)(initial);

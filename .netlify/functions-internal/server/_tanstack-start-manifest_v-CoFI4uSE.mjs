@@ -1,4 +1,4 @@
-//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-D4j6MPmq.js
+//#region node_modules/.nitro/vite/services/ssr/assets/_tanstack-start-manifest_v-CoFI4uSE.js
 var tsrStartManifest = () => ({ routes: {
 	__root__: {
 		filePath: "/home/project/src/routes/__root.tsx",
@@ -9,27 +9,27 @@ var tsrStartManifest = () => ({ routes: {
 			"/reset-password"
 		],
 		preloads: [
-			"/assets/index-CLZqPwPX.js",
+			"/assets/index-DJrjQS-c.js",
 			"/assets/jsx-runtime-ByaQ0wya.js",
 			"/assets/not-found-i5RsCZif.js",
 			"/assets/preload-helper-uu8GI-PW.js",
 			"/assets/link-CaulFsZk.js",
 			"/assets/useMatch-BKVbKdYa.js",
 			"/assets/useRouter-D7annWLj.js",
-			"/assets/client-CVY5GNmK.js",
-			"/assets/api-C6I_7w9n.js"
+			"/assets/client-dpcH8YSU.js",
+			"/assets/api-CPw0aoqc.js"
 		],
 		scripts: [{ attrs: {
 			type: "module",
 			async: !0,
-			src: "/assets/index-CLZqPwPX.js"
+			src: "/assets/index-DJrjQS-c.js"
 		} }]
 	},
 	"/": {
 		filePath: "/home/project/src/routes/index.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/routes-D2ej9FCT.js",
+			"/assets/routes-CoPIdG84.js",
 			"/assets/createLucideIcon-Btarka3T.js",
 			"/assets/download-DMIq32ey.js",
 			"/assets/gift-pVzE52xf.js",
@@ -51,7 +51,7 @@ var tsrStartManifest = () => ({ routes: {
 			"/_authenticated/table/$tableId"
 		],
 		preloads: [
-			"/assets/route-3fndUbxY.js",
+			"/assets/route-UgjqsuL7.js",
 			"/assets/useNavigate-DCaDQQMJ.js",
 			"/assets/createLucideIcon-Btarka3T.js",
 			"/assets/loader-BN9s8u04.js",
@@ -66,7 +66,7 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/auth.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/auth-DH9prT6j.js",
+			"/assets/auth-CJsz8nXw.js",
 			"/assets/useNavigate-DCaDQQMJ.js",
 			"/assets/createLucideIcon-Btarka3T.js",
 			"/assets/gift-pVzE52xf.js",
@@ -81,7 +81,7 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/reset-password.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/reset-password-DqQfPX9G.js",
+			"/assets/reset-password-DybzpJR2.js",
 			"/assets/useNavigate-DCaDQQMJ.js",
 			"/assets/key-round-n5aTPi_B.js",
 			"/assets/loader-BN9s8u04.js",
@@ -92,11 +92,11 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/_authenticated/admin.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/admin-BW-cr0TP.js",
-			"/assets/qr-B-Qg6bmw.js",
+			"/assets/admin-C4msQPVl.js",
+			"/assets/qr-LWIvKrAC.js",
 			"/assets/session-D1rNumfv.js",
 			"/assets/save-Di2tjC53.js",
-			"/assets/useTableSettings-Cj2ps0_q.js",
+			"/assets/useTableSettings-DsprWr-d.js",
 			"/assets/gift-pVzE52xf.js",
 			"/assets/image-plus-BiwsMEIH.js",
 			"/assets/image-CmKPk4fD.js",
@@ -109,9 +109,9 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/_authenticated/lobby.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/lobby-BANObCa5.js",
-			"/assets/qr-B-Qg6bmw.js",
-			"/assets/useWallet-BWGlw414.js",
+			"/assets/lobby-BDf-J05S.js",
+			"/assets/qr-LWIvKrAC.js",
+			"/assets/useWallet-BIrRJ8NG.js",
 			"/assets/image-CmKPk4fD.js",
 			"/assets/users-MeQ1ySgA.js",
 			"/assets/format-DQOIaNDG.js"
@@ -121,10 +121,10 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/_authenticated/settings.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/settings-ZSdN-6it.js",
-			"/assets/SoundControls-D1Wh96Bx.js",
+			"/assets/settings-BhnMjq61.js",
+			"/assets/SoundControls-BPyB90-q.js",
 			"/assets/save-Di2tjC53.js",
-			"/assets/useTableSettings-Cj2ps0_q.js",
+			"/assets/useTableSettings-DsprWr-d.js",
 			"/assets/gift-pVzE52xf.js",
 			"/assets/image-plus-BiwsMEIH.js",
 			"/assets/users-MeQ1ySgA.js",
@@ -135,7 +135,7 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/_authenticated/tournament.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/tournament-C_Mwt9hl.js",
+			"/assets/tournament-ClCO28Kl.js",
 			"/assets/session-D1rNumfv.js",
 			"/assets/dealers-C_BbxBZG.js",
 			"/assets/users-MeQ1ySgA.js",
@@ -147,17 +147,17 @@ var tsrStartManifest = () => ({ routes: {
 		filePath: "/home/project/src/routes/_authenticated/table.$tableId.tsx",
 		children: void 0,
 		preloads: [
-			"/assets/table._tableId-Dd1-3al6.js",
-			"/assets/table._tableId-OMcp16U8.js",
-			"/assets/qr-B-Qg6bmw.js",
-			"/assets/SoundControls-D1Wh96Bx.js",
+			"/assets/table._tableId-BHliDBcz.js",
+			"/assets/qr-LWIvKrAC.js",
+			"/assets/SoundControls-BPyB90-q.js",
 			"/assets/session-D1rNumfv.js",
-			"/assets/useWallet-BWGlw414.js",
-			"/assets/useTableSettings-Cj2ps0_q.js",
+			"/assets/useWallet-BIrRJ8NG.js",
+			"/assets/useTableSettings-DsprWr-d.js",
 			"/assets/dealers-C_BbxBZG.js",
 			"/assets/users-MeQ1ySgA.js",
 			"/assets/useTableSounds-DeOXUGyB.js",
-			"/assets/format-DQOIaNDG.js"
+			"/assets/format-DQOIaNDG.js",
+			"/assets/table._tableId-Dd1-3al6.js"
 		]
 	}
 } });

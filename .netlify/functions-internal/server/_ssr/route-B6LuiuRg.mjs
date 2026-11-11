@@ -1,15 +1,15 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { t as supabase } from "./client-SAOWSTXM.mjs";
-import { m as fetchIsAdmin } from "./api-DH6oy-PM.mjs";
+import { t as supabase } from "./client-DQTJBoLu.mjs";
+import { m as fetchIsAdmin } from "./api-Cf0drsAo.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { E as RefreshCw, L as Loader, N as LogOut, _ as ShieldCheck, b as Settings, l as Trophy, u as TriangleAlert } from "../_libs/lucide-react.mjs";
 import { b as Link, g as Outlet, p as useRouterState, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
-import { n as useAuth } from "./useAuth-BRiQAX8u.mjs";
+import { n as useAuth } from "./useAuth-D_f7uHyK.mjs";
 import { t as FloatingSuits } from "./FloatingSuits-CJ6WQyVh.mjs";
 import { i as normalizeSoundPrefs, l as setSoundPrefs, n as getSoundPrefs, s as sameSoundPrefs, u as subscribeSound } from "./sounds-vUSvDDZ3.mjs";
 import { n as useQueryClient } from "../_libs/tanstack__react-query.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/route-DLY5oVAY.js
+//#region node_modules/.nitro/vite/services/ssr/assets/route-B6LuiuRg.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var NAV_BASE = "inline-flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 transition sm:px-3";

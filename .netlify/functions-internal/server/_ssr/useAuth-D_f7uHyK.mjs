@@ -1,10 +1,10 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { t as supabase } from "./client-SAOWSTXM.mjs";
-import { v as fetchPlayerByAuthId } from "./api-DH6oy-PM.mjs";
+import { t as supabase } from "./client-DQTJBoLu.mjs";
+import { v as fetchPlayerByAuthId } from "./api-Cf0drsAo.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { S as useRouter } from "../_libs/@tanstack/react-router+[...].mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/useAuth-BRiQAX8u.js
+//#region node_modules/.nitro/vite/services/ssr/assets/useAuth-D_f7uHyK.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var STORAGE_KEY = "poker-room-player";

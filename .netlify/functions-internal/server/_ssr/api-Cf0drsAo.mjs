@@ -1,5 +1,5 @@
-import { t as supabase } from "./client-SAOWSTXM.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/api-DH6oy-PM.js
+import { t as supabase } from "./client-DQTJBoLu.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/api-Cf0drsAo.js
 var DEFAULT_TABLE_SETTINGS = {
 	rakePercent: 5,
 	botAggression: "balanced",

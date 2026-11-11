@@ -1,11 +1,11 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { t as supabase } from "./client-SAOWSTXM.mjs";
+import { t as supabase } from "./client-DQTJBoLu.mjs";
 import { t as errorMessage } from "./format-GXPsoUco.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { L as Loader, z as KeyRound } from "../_libs/lucide-react.mjs";
 import { b as Link, x as useNavigate } from "../_libs/@tanstack/react-router+[...].mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/reset-password-Daqv4RLY.js
+//#region node_modules/.nitro/vite/services/ssr/assets/reset-password-KaDrYrB4.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 function ResetPasswordPage() {

@@ -1,13 +1,13 @@
 import { r as __toESM } from "../_runtime.mjs";
-import { D as updateProfile, O as uploadAvatar, g as fetchMyReferralEarnings, h as fetchMyReferralCount, t as AVATAR_EMOJIS } from "./api-DH6oy-PM.mjs";
+import { D as updateProfile, O as uploadAvatar, g as fetchMyReferralEarnings, h as fetchMyReferralCount, t as AVATAR_EMOJIS } from "./api-Cf0drsAo.mjs";
 import { i as formatPeso, t as errorMessage } from "./format-GXPsoUco.mjs";
 import { u as require_react } from "../_libs/@floating-ui/react-dom+[...].mjs";
-import { n as useTableSettings } from "./useTableSettings-Di_hzpEc.mjs";
+import { n as useTableSettings } from "./useTableSettings-Bq7lZs-1.mjs";
 import { o as require_jsx_runtime } from "../_libs/@radix-ui/react-collection+[...].mjs";
 import { L as Loader, Q as Camera, U as Gift, V as ImagePlus, Y as CircleUser, Z as Check, f as Trash2, o as Users, q as Copy, w as Save, y as Share2 } from "../_libs/lucide-react.mjs";
-import { n as useAuth } from "./useAuth-BRiQAX8u.mjs";
+import { n as useAuth } from "./useAuth-D_f7uHyK.mjs";
 import { t as SoundControls } from "./SoundControls-tmojWTfB.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/settings-D0pw0v31.js
+//#region node_modules/.nitro/vite/services/ssr/assets/settings-b-l1y16L.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var MAX_PHOTO_BYTES = 5242880;

@@ -1,7 +1,7 @@
-import { b as fetchPokerTable } from "./api-DH6oy-PM.mjs";
+import { b as fetchPokerTable } from "./api-Cf0drsAo.mjs";
 import { Kt as notFound, _ as lazyRouteComponent, v as createFileRoute } from "../_libs/@tanstack/react-router+[...].mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/table._tableId-DfZGSERQ.js
-var $$splitComponentImporter = () => import("./table._tableId-BHnbAcis.mjs");
+//#region node_modules/.nitro/vite/services/ssr/assets/table._tableId-CGicAofF.js
+var $$splitComponentImporter = () => import("./table._tableId-Dc-CKJa0.mjs");
 var $$splitNotFoundComponentImporter = () => import("./table._tableId-CczABWiF.mjs");
 var Route = createFileRoute("/_authenticated/table/$tableId")({
 	loader: async ({ params }) => {
